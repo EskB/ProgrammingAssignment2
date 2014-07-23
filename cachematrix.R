@@ -6,7 +6,7 @@ makeCacheMatrix <- function(x = matrix()) {
           
           ## Initialize the inverse property
           
-          i <- NULL
+          
           
           ## set the matrix
           
